@@ -1,0 +1,10 @@
+@Test
+    public void methodTest(){
+        double expectedValue = "";
+//        run the method in question
+//        save to string;
+        
+        double actualValue ="";
+        Double marginOfErr =.01;
+        assertEquals("input message here", expectedValue,actualValue, marginOfErr);
+    }

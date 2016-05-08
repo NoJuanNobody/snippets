@@ -1,0 +1,11 @@
+go to preferences,
+====================
+build, Executuin, Deployment
+     |-->Compiler
+	|-->java Complier
+
+====================
+set 1.5 to 1.8 
+====================
+in your *.iml file change the 
+LANGUAGE LEVEL from "JDK_1_5"  to "JDK_1_8"

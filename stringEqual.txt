@@ -1,0 +1,8 @@
+  @Test
+    public String methodTest(){
+        String expectedValue = "";
+//        run the method in question
+//        save to string;
+        String actualValue ="";
+        assertEquals("input message here", expectedValue,actualValue)
+    }
