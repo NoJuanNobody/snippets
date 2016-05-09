@@ -1,3 +1,5 @@
+this is a test to check for two doubles being equal
+
 @Test
     public void methodTest(){
         double expectedValue = "";
